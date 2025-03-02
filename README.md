@@ -1,6 +1,7 @@
 # Informacinių sistemų testavimas ir priežiūra
 
-1 uždavinys.
+Gabija Antanavičiūtė
+1 uždavinys
 
 ## Aprašymas
 Parašyti unit testai nesudėtingai Python programai. 
