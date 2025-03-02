@@ -32,6 +32,8 @@ Norint paleisti unit testus, naudojami `unittest` Python moduliai:
 
 ```bash
 python -m unittest test_functions.py
+```
+
 
 ## Video
 
