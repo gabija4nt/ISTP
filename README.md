@@ -34,8 +34,3 @@ Norint paleisti unit testus, naudojami `unittest` Python moduliai:
 ```bash
 python -m unittest test_functions.py
 ```
-
-
-## Video
-
-Nuoroda į video: https://youtu.be/e2J6rePZCRg
