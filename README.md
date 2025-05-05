@@ -10,9 +10,9 @@ Pagal operacinę sistemą reikia pasirinkti atitinkamą chromedriver versiją ir
 
 Komandinėje eilutėje reikia įvesti komandas
 ```bash
-python3 test2.py
+python3 test4.py
 ```
 
 ```bash
-python3 test3.py
+python3 test5.py
 ```
